@@ -1,0 +1,2 @@
+# pos-clovece
+ Semestrálna práca
